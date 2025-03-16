@@ -1,0 +1,35 @@
+.slider{
+
+    width: 1000px;
+    height: 1000px;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 8px;
+    float: left;
+    margin-left: 20px;
+    margin: auto;
+    display: flex;
+    
+}
+
+.main{
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 8px;
+    float: left;
+    margin-left: 20px;
+
+}
+
+.footer{
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 8px;
+    float: left;
+    margin-left: 20px;
+
+}

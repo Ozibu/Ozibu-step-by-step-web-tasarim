@@ -1,0 +1,55 @@
+.container{
+
+    width: 1000px;
+    height: 1200px;
+    background-color: white;
+    border: 2px solid;
+    margin: auto;
+}
+.menu{
+
+    width: 1000px;
+    height: 100px;
+    background-color: navy;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.slider{
+    width: 1100px;
+    height: 400px;
+    background-color: white;   
+    margin: auto;
+
+}
+.main{
+
+    width: 1000px;
+    height: 520px;
+    background-color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid;
+    border-radius: 15px;
+    color: navy;
+    padding: 20px;
+    
+    
+}
+.footer{
+    width: 1000px;
+    height: 80px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

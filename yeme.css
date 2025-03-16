@@ -1,0 +1,8 @@
+.container{
+    width: 1000px;;
+    height: 1000px;
+    background-color: white;
+    border: 2px solid;
+    margin: auto;
+    background-image: url(images/menü.webp);
+}

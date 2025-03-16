@@ -1,0 +1,75 @@
+.container{
+
+    width: 1000px;
+    height: 1150px;
+    background-color: white;
+    border: 2px solid;
+    margin: auto;
+}
+
+.slider{
+
+    width: 1200px;
+    height: 400px;
+    background-color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border: 2px solid;
+    
+}
+.menu{
+    width: 1200px;
+    height: 50px;
+    background-color: navy;
+    margin: auto;
+    margin-bottom: 10px;
+   
+
+}
+.footer{
+    width: 1200px;
+    height: 400px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 10px;
+    
+
+}
+.main{
+
+    width: 1200px;
+    height: 200px;
+    background-color: white;
+    color: navy;
+    margin: auto;
+    margin-bottom: 10px; 
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+/*navbar renginiayaralama*/
+
+.bg-navy {
+  background-color: navy !important;
+  color: white !important;
+}
+.bg-navy .nav-link,
+.bg-navy .navbar-brand {
+  color: white !important;
+}
+.bg-navy .nav-link:hover {
+  color: lightgray !important;
+}
+.bg-navy .dropdown-menu {
+  background-color: white !important;
+}
+.bg-navy .dropdown-item {
+  color: navy !important;
+}
+.bg-navy .dropdown-item:hover {
+  background-color: lightgray !important;
+  color: navy !important;
+}
+
